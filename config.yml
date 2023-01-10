@@ -50,7 +50,7 @@ content:
           url: https://www.thinkphp.cn/
     - name: 开放平台
       sites:
-         - name: 微信公众平台
+        - name: 微信公众平台
           description: 微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。
           url: https://mp.weixin.qq.com/
         - name: 支付宝开放平台
