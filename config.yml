@@ -24,7 +24,10 @@ template: webstack
 #google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
-  expandAll: false
+  logo:
+    expanded: https://github.com/atongmu.png?size=40
+    collapsed: https://github.com/atongmu.png?size=40
+    dark: https://github.com/atongmu.png?size=40
   search:
     enabled: true
     default: baidu
@@ -47,8 +50,14 @@ content:
           description: Taro
           url: https://taro-docs.jd.com/docs
         - name: ThinkPhp
-          description: ThinkPHP框架。
+          description: ThinkPHP框架
           url: https://www.thinkphp.cn/
+        - name: ES6-10
+          description: ES6-10 入门教程
+          url: http://www.imooc.com/wiki/ES6lesson
+        - name: codesandbox
+          description: codesandbox
+          url: https://codesandbox.io/
     - name: 开放平台
       sites:
         - name: 微信公众平台
