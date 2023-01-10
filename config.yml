@@ -21,17 +21,18 @@ footer: © 2023-2023 @atongmu
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+#google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
+  expandAll: false
   search:
     enabled: true
     default: baidu
     # 可选的搜索引擎
     engines:
+      - baidu
       - github
       - weibo
-      - baidu
       - bilibili
       - zhihu
 
