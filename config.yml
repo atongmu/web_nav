@@ -20,9 +20,6 @@ footer: © 2023-2023 @atongmu
 # 1. webstack (http://webstack.cc)
 template: webstack
 
-# 是否将侧边栏全部展开
-xpandAll: false
-
 # Google analytics
 google_analytics: "G-EXE1PJ8CR2"
 
