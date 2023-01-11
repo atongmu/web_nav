@@ -63,6 +63,15 @@ content:
           url: https://codesandbox.io/
     - name: 工具大全
       sites:
+        - name: 爱资料工具
+          description: 爱资料工具
+          url: https://www.toolnb.com/
+        - name: U钙网
+          description: 免费logo制作
+          url: https://www.uugai.com/
+        - name: 插图网站
+          description: illlustrations
+          url: https://illlustrations.co/
         - name: 中国镜像站
           description: 中国镜像站
           url: https://npmmirror.com/
