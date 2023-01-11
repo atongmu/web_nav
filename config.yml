@@ -43,24 +43,66 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: AntDesign
-          description: AntDesign
-          url: https://ant-design.gitee.io/index-cn
+        - name: 前端知识图谱
+          description: 前端知识图谱
+          url: https://f2e.tech/
+        - name: Electronjs
+          description: electronjs
+          url: https://www.electronjs.org/
         - name: Taro
           description: Taro
           url: https://taro-docs.jd.com/docs
         - name: ThinkPhp
           description: ThinkPHP框架
           url: https://www.thinkphp.cn/
+        - name: 阿里图标库
+          description: 阿里图标库
+          url: https://www.iconfont.cn/
         - name: ES6-10
           description: ES6-10 入门教程
           url: http://www.imooc.com/wiki/ES6lesson
+        - name: 图解Git
+          description: 图解Git
+          url: http://marklodato.github.io/visual-git-guide/index-zh-cn.html
         - name: 印记中国
           description: 印记中国
           url: https://docschina.org/
+        - name: npmjs
+          description: npmjs
+          url: https://www.npmjs.com/
         - name: codesandbox
           description: codesandbox
           url: https://codesandbox.io/
+        - name: 特殊符号表
+          description: 特殊符号表
+          url: https://www.toptal.com/designers/htmlarrows/
+    - name: React
+      sites:
+        - name: Umijs
+          description: umijs
+          url: https://umijs.org/
+        - name: DumiJs
+          description: dumijs
+          url: https://d.umijs.org/
+        - name: Ahooks
+          description: ahooks
+          url: https://ahooks.js.org/zh-CN/
+    - name: Flutter
+      sites:
+        - name: flutter中文文档
+          description: flutter中文文档
+          url: https://flutter.cn/docs
+    - name: Components
+      sites:
+        - name: AntDesign
+          description: AntDesign
+          url: https://ant-design.gitee.io/index-cn
+        - name: AntProComponents
+          description: procomponents
+          url: https://procomponents.ant.design/
+        - name: nutui
+          description: nutui
+          url: https://nutui.jd.com/#/index
     - name: 工具大全
       sites:
         - name: 爱资料工具
@@ -106,6 +148,9 @@ content:
         - name: 微信公众平台
           description: 微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。
           url: https://mp.weixin.qq.com/
+        - name: 微信公众平台测试帐号
+          description: 微信公众平台测试帐号
+          url: https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
         - name: 支付宝开放平台
           description: 支付宝开放平台
           url: https://open.alipay.com/
