@@ -55,9 +55,43 @@ content:
         - name: ES6-10
           description: ES6-10 入门教程
           url: http://www.imooc.com/wiki/ES6lesson
+        - name: 印记中国
+          description: 印记中国
+          url: https://docschina.org/
         - name: codesandbox
           description: codesandbox
           url: https://codesandbox.io/
+    - name: 工具大全
+      sites:
+        - name: 中国镜像站
+          description: 中国镜像站
+          url: https://npmmirror.com/
+        - name: linuxcool
+          description: Linux命令大全(手册)
+          url: https://www.linuxcool.com/
+        - name: shields
+          description: GitHub徽标
+          url: https://shields.io/category/build
+        - name: 内网渗透
+          description: 内网渗透
+          url: https://natapp.cn/
+        - name: 演示文稿
+          description: 演示文稿
+          url: https://cn.sli.dev/
+        - name: ghelper
+          description: ghelper
+          url: https://ghelper.net/
+    - name: 实用依赖
+      sites:
+        - name: Dayjs
+          description: Day.js是一个极简的JavaScript库，可以为现代浏览器解析、验证、操作和显示日期和时间。
+          url: https://dayjs.fenxianglu.cn/
+        - name: Lodashjs
+          description: 是一个一致性、模块化、高性能的 JavaScript 实用工具库。
+          url: https://www.lodashjs.com/
+        - name: add-trycatch
+          description: 一个自动给 async/await 函数添加 try/catch 的 babel 插件
+          url: https://www.npmjs.com/package/babel-plugin-await-add-trycatch
     - name: 开放平台
       sites:
         - name: 微信公众平台
