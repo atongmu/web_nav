@@ -216,6 +216,20 @@ content:
         - name: 天翼云
           description: 天翼云
           url: https://www.ctyun.cn/
+    - name: 电影
+      sites:
+        - name: 豌豆PRO
+          url: https://wandou.pro/
+        - name: 555电影
+          url: https://www.5ying.fun/
+        - name: 影视森林
+          url: http://549.tv/
+        - name: 橘子盘搜
+          url: https://www.nmme.cc/
+        - name: 电影狗
+          url: https://www.dianyinggou.com/
+        - name: 电影狗
+          url: https://www.dianyinggou.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
