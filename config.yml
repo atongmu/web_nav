@@ -67,8 +67,11 @@ content:
         - name: npmjs
           description: npmjs
           url: https://www.npmjs.com/
+        - name: codepen
+          description: 单文件在线编辑器
+          url: https://codepen.io/pen/
         - name: codesandbox
-          description: codesandbox
+          description: 项目级在线编辑器
           url: https://codesandbox.io/
         - name: 前端知识图谱
           description: 前端知识图谱
@@ -76,15 +79,14 @@ content:
         - name: 特殊符号表
           description: 特殊符号表
           url: https://www.toptal.com/designers/htmlarrows/
-    
     - name: 社区
       sites:
         - name: GitHub
           description: GitHub
-          url: https://github.com/
+          url: https://github.com/atongmu
         - name: Gitee
           description: Gitee
-          url: https://gitee.com/
+          url: https://gitee.com/baimingyang
         - name: 稀土掘金
           description: 稀土掘金
           url: https://juejin.cn/
@@ -236,10 +238,14 @@ content:
           url: https://www.ctyun.cn/
     - name: 电影
       sites:
+        - name: VideoFk解析视频
+          url: https://www.videofk.com/
         - name: 豌豆PRO
           url: https://wandou.pro/
         - name: 555电影
           url: https://www.5ying.fun/
+        - name: NO视频
+          url: https://www.novipnoad.com/
         - name: 影视森林
           url: http://549.tv/
         - name: 橘子盘搜
@@ -402,11 +408,26 @@ content:
     - name: 一些网站
       sites:
         - name: 全历史
-          description: 全历史
           url: https://www.allhistory.com/
         - name: 科塔学术
-          description: 科塔学术
           url: https://site.sciping.com/
         - name: 吾爱破解
-          description: 吾爱破解
           url: https://www.52pojie.cn/
+        - name: 书栈网
+          url: https://www.bookstack.cn/
+        - name: 书格
+          description: 在线古籍图书馆
+          url: https://new.shuge.org/
+        - name: 图片立体像素画
+          url: https://pissang.github.io/voxelize-image/
+        - name: 术语在线
+          url: https://www.termonline.cn/index
+        - name: 在线制作地图图例
+          url: https://www.mapchart.net/
+        - name: 创意光线绘画
+          url: http://weavesilk.com/
+        - name: 星系观察
+          url: https://stellarium-web.org/
+        - name: 查无此人
+          description: 刷新网站，展现一张AI 生成的人脸照片
+          url: https://thispersondoesnotexist.com/
