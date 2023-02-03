@@ -43,12 +43,6 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: 今日热榜
-          description: 今日热榜
-          url: https://tophub.today/
-        - name: Electronjs
-          description: electronjs
-          url: https://www.electronjs.org/
         - name: Taro
           description: Taro
           url: https://taro-docs.jd.com/docs
@@ -79,6 +73,12 @@ content:
         - name: 特殊符号表
           description: 特殊符号表
           url: https://www.toptal.com/designers/htmlarrows/
+        - name: 今日热榜
+          description: 今日热榜
+          url: https://tophub.today/
+        - name: Electronjs
+          description: electronjs
+          url: https://www.electronjs.org/
     - name: 社区
       sites:
         - name: GitHub
@@ -134,7 +134,7 @@ content:
           url: https://procomponents.ant.design/
         - name: nutui
           description: nutui
-          url: https://nutui.jd.com/#/index
+          url: https://nutui.jd.com/next/#/
     - name: 实用依赖
       sites:
         - name: Dayjs
