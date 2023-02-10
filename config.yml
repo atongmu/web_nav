@@ -56,6 +56,10 @@ content:
           url: https://codesandbox.io/
         - name: 今日热榜
           url: https://tophub.today/
+        - name: 快速部署建站
+          url: https://surge.sh/
+        - name: 在线画图
+          url: https://boardmix.cn/
     - name: React
       sites:
         - name: Umijs
@@ -92,6 +96,8 @@ content:
       sites:
         - name: Electronjs
           url: https://www.electronjs.org/
+        - name: electron-egg
+          url: https://www.yuque.com/u34495/mivcfg
     - name: Components
       sites:
         - name: AntDesign
@@ -152,6 +158,8 @@ content:
           url: https://www.toolnb.com/
         - name: 特殊符号表
           url: https://www.toptal.com/designers/htmlarrows/
+        - name: 代码生成图片
+          url: https://carbon.now.sh/
         - name: U钙网
           description: 免费logo制作
           url: https://www.uugai.com/
@@ -254,6 +262,8 @@ content:
         - name: Medialoot
           description: Free & Premium Design Resources — Medialoot
           url: https://medialoot.com/
+        - name: 封面模板
+          url: https://www.canva.cn/
         - name: 千图网
           description: 专注免费设计素材下载的网站
           url: http://www.58pic.com/
