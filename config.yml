@@ -47,7 +47,6 @@ content:
           description: Taro
           url: https://taro-docs.jd.com/docs
         - name: ThinkPhp
-          description: ThinkPHP框架
           url: https://www.thinkphp.cn/
         - name: ES6-10
           description: ES6-10 入门教程
@@ -55,12 +54,11 @@ content:
         - name: 图解Git
           description: 图解Git
           url: http://marklodato.github.io/visual-git-guide/index-zh-cn.html
-        - name: 印记中国
-          description: 印记中国
-          url: https://docschina.org/
         - name: npmjs
-          description: npmjs
           url: https://www.npmjs.com/
+        - name: 码上掘金
+          description: 单文件在线编辑器
+          url: https://code.juejin.cn/
         - name: codepen
           description: 单文件在线编辑器
           url: https://codepen.io/pen/
@@ -68,16 +66,14 @@ content:
           description: 项目级在线编辑器
           url: https://codesandbox.io/
         - name: 前端知识图谱
-          description: 前端知识图谱
           url: https://f2e.tech/
         - name: 特殊符号表
-          description: 特殊符号表
           url: https://www.toptal.com/designers/htmlarrows/
         - name: 今日热榜
-          description: 今日热榜
           url: https://tophub.today/
+        - name: 印记中国
+          url: https://docschina.org/
         - name: Electronjs
-          description: electronjs
           url: https://www.electronjs.org/
     - name: 社区
       sites:
@@ -149,19 +145,17 @@ content:
     - name: 在线工具
       sites:
         - name: 爱资料工具
-          description: 爱资料工具
           url: https://www.toolnb.com/
         - name: U钙网
           description: 免费logo制作
           url: https://www.uugai.com/
         - name: 响应式屏幕效果
-          description: 屏幕效果
           url: http://www.responsinator.com/
         - name: 插图网站
-          description: illlustrations
           url: https://illlustrations.co/
+        - name: 图片压缩
+          url: https://tinypng.com/
         - name: 中国镜像站
-          description: 中国镜像站
           url: https://npmmirror.com/
         - name: linuxcool
           description: Linux命令大全(手册)
@@ -173,19 +167,15 @@ content:
           description: 内网渗透
           url: https://natapp.cn/
         - name: 演示文稿
-          description: 演示文稿
           url: https://cn.sli.dev/
         - name: ghelper
           description: ghelper
           url: https://ghelper.net/
         - name: 临时邮箱
-          description: 临时邮箱
           url: http://24mail.chacuo.net/
         - name: 临时短信
-          description: 临时短信
           url: http://www.xnsms.com/
         - name: 国外临时短信
-          description: 国外临时短信
           url: https://zh.mytrashmobile.com/
         - name: tinypng
           description: Optimize your images with a perfect balance in quality and file size.
@@ -225,16 +215,12 @@ content:
     - name: 云服务
       sites:
         - name: 阿里云
-          description: 阿里云
           url: https://www.aliyun.com/
         - name: 腾讯云
-          description: 腾讯云
           url: https://cloud.tencent.com/
         - name: 华为云
-          description: 华为云
           url: https://www.huaweicloud.com/
         - name: 天翼云
-          description: 天翼云
           url: https://www.ctyun.cn/
     - name: 电影
       sites:
@@ -394,13 +380,10 @@ content:
           description: 网易用户体验设计中心（User Experience Design Center）
           url: http://uedc.163.com/
         - name: 百度用户体验中心
-          description: 百度用户体验中心
           url: http://ued.baidu.com/
         - name: 京东设计中心
-          description: 京东设计中心
           url: http://jdc.jd.com/
         - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
           url: http://eux.baidu.com/
         - name: 携程设计委员会
           description: 携程设计委员会-Ctrip Design Committee
