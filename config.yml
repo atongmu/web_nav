@@ -43,17 +43,6 @@ content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Taro
-          description: Taro
-          url: https://taro-docs.jd.com/docs
-        - name: ThinkPhp
-          url: https://www.thinkphp.cn/
-        - name: ES6-10
-          description: ES6-10 入门教程
-          url: http://www.imooc.com/wiki/ES6lesson
-        - name: 图解Git
-          description: 图解Git
-          url: http://marklodato.github.io/visual-git-guide/index-zh-cn.html
         - name: npmjs
           url: https://www.npmjs.com/
         - name: 码上掘金
@@ -65,48 +54,29 @@ content:
         - name: codesandbox
           description: 项目级在线编辑器
           url: https://codesandbox.io/
-        - name: 前端知识图谱
-          url: https://f2e.tech/
-        - name: 特殊符号表
-          url: https://www.toptal.com/designers/htmlarrows/
         - name: 今日热榜
           url: https://tophub.today/
-        - name: 印记中国
-          url: https://docschina.org/
-        - name: Electronjs
-          url: https://www.electronjs.org/
-    - name: 社区
-      sites:
-        - name: GitHub
-          description: GitHub
-          url: https://github.com/atongmu
-        - name: Gitee
-          description: Gitee
-          url: https://gitee.com/baimingyang
-        - name: 稀土掘金
-          description: 稀土掘金
-          url: https://juejin.cn/
-        - name: Csdn
-          description: csdn
-          url: https://www.csdn.net/
-        - name: W3school
-          description: w3school
-          url: https://www.w3school.com.cn/
     - name: React
       sites:
         - name: Umijs
-          description: umijs
           url: https://umijs.org/
         - name: DumiJs
-          description: dumijs
           url: https://d.umijs.org/
         - name: Ahooks
-          description: ahooks
           url: https://ahooks.js.org/zh-CN/
+    - name: 小程序
+      sites:
+        - name: Taro
+          url: https://taro-docs.jd.com/docs
+        - name: nutui
+          url: https://nutui.jd.com/next/#/
+    - name: Php
+      sites:
+        - name: ThinkPhp
+          url: https://www.thinkphp.cn/
     - name: Flutter
       sites:
         - name: flutter中文文档
-          description: flutter中文文档
           url: https://flutter.cn/docs
         - name: Dart
           description: dartdoc
@@ -115,22 +85,42 @@ content:
           description: flutterchina
           url: https://book.flutterchina.club/
         - name: 内置Icon速查
-          description: icons
           url: https://material.io/resources/icons/?style=baseline
         - name: bruno组件
-          description: bruno组件
           url: https://bruno.ke.com/
+    - name: 软件开发
+      sites:
+        - name: Electronjs
+          url: https://www.electronjs.org/
     - name: Components
       sites:
         - name: AntDesign
-          description: AntDesign
           url: https://ant-design.gitee.io/index-cn
         - name: AntProComponents
-          description: procomponents
           url: https://procomponents.ant.design/
-        - name: nutui
-          description: nutui
-          url: https://nutui.jd.com/next/#/
+    - name: 社区
+      sites:
+        - name: GitHub
+          url: https://github.com/atongmu
+        - name: Gitee
+          url: https://gitee.com/baimingyang
+        - name: 稀土掘金
+          url: https://juejin.cn/
+        - name: Csdn
+          url: https://www.csdn.net/
+        - name: W3school
+          url: https://www.w3school.com.cn/
+    - name: 文档
+      sites:
+        - name: ES6-10
+          description: ES6-10 入门教程
+          url: http://www.imooc.com/wiki/ES6lesson
+        - name: 图解Git
+          url: http://marklodato.github.io/visual-git-guide/index-zh-cn.html
+        - name: 印记中国
+          url: https://docschina.org/
+        - name: 前端知识图谱
+          url: https://f2e.tech/
     - name: 实用依赖
       sites:
         - name: Dayjs
@@ -142,10 +132,26 @@ content:
         - name: add-trycatch
           description: 一个自动给 async/await 函数添加 try/catch 的 babel 插件
           url: https://www.npmjs.com/package/babel-plugin-await-add-trycatch
+    - name: 开放平台
+      sites:
+        - name: 微信公众平台
+          description: 微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。
+          url: https://mp.weixin.qq.com/
+        - name: 微信公众平台测试帐号
+          description: 微信公众平台测试帐号
+          url: https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+        - name: 支付宝开放平台
+          description: 支付宝开放平台
+          url: https://open.alipay.com/
+        - name: 钉钉开放平台
+          description: 钉钉开放平台
+          url: https://open.dingtalk.com/
     - name: 在线工具
       sites:
         - name: 爱资料工具
           url: https://www.toolnb.com/
+        - name: 特殊符号表
+          url: https://www.toptal.com/designers/htmlarrows/
         - name: U钙网
           description: 免费logo制作
           url: https://www.uugai.com/
@@ -177,9 +183,6 @@ content:
           url: http://www.xnsms.com/
         - name: 国外临时短信
           url: https://zh.mytrashmobile.com/
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
         - name: goqr
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
           url: http://goqr.me/
@@ -198,20 +201,6 @@ content:
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
-    - name: 开放平台
-      sites:
-        - name: 微信公众平台
-          description: 微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。
-          url: https://mp.weixin.qq.com/
-        - name: 微信公众平台测试帐号
-          description: 微信公众平台测试帐号
-          url: https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
-        - name: 支付宝开放平台
-          description: 支付宝开放平台
-          url: https://open.alipay.com/
-        - name: 钉钉开放平台
-          description: 钉钉开放平台
-          url: https://open.dingtalk.com/
     - name: 云服务
       sites:
         - name: 阿里云
@@ -222,6 +211,8 @@ content:
           url: https://www.huaweicloud.com/
         - name: 天翼云
           url: https://www.ctyun.cn/
+        - name: 七牛云
+          url: https://www.qiniu.com/
     - name: 电影
       sites:
         - name: VideoFk解析视频
@@ -236,8 +227,6 @@ content:
           url: http://549.tv/
         - name: 橘子盘搜
           url: https://www.nmme.cc/
-        - name: 电影狗
-          url: https://www.dianyinggou.com/
         - name: 电影狗
           url: https://www.dianyinggou.com/
     - name: 界面灵感
