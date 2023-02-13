@@ -45,6 +45,11 @@ content:
       sites:
         - name: npmjs
           url: https://www.npmjs.com/
+        - name: 163邮箱
+          url: https://mail.163.com/
+        - name: Mdnice
+          description: 让MD数次额变得更棒
+          url: https://editor.mdnice.com/
         - name: 码上掘金
           description: 单文件在线编辑器
           url: https://code.juejin.cn/
@@ -163,10 +168,14 @@ content:
         - name: U钙网
           description: 免费logo制作
           url: https://www.uugai.com/
+        - name: 一帧秒创
+          url: https://aigc.yizhentv.com/
         - name: 响应式屏幕效果
           url: http://www.responsinator.com/
         - name: 插图网站
           url: https://illlustrations.co/
+        - name: 改图宝
+          url: https://www.gaitubao.com/
         - name: 图片压缩
           url: https://tinypng.com/
         - name: 中国镜像站
