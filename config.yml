@@ -70,6 +70,8 @@ content:
         - name: qwerty
           description: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
           url: https://qwerty.kaiyi.cool/
+        - name: 轻松一下
+          url: https://www.wesane.com/
     - name: React
       sites:
         - name: Umijs
