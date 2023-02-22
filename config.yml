@@ -90,6 +90,9 @@ content:
       sites:
         - name: ThinkPhp
           url: https://www.thinkphp.cn/
+        - name: Packagist
+          description: PHP软件包仓库
+          url: http://packagist.p2hp.com/
     - name: Flutter
       sites:
         - name: flutter中文文档
