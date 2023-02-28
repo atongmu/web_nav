@@ -43,6 +43,8 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 开发者搜索引擎
+          url: https://kaifa.baidu.com/
         - name: npmjs
           url: https://www.npmjs.com/
         - name: 163邮箱
