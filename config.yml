@@ -87,7 +87,9 @@ content:
         - name: Taro
           url: https://taro-docs.jd.com/docs
         - name: nutui
-          url: https://nutui.jd.com/next/#/
+          url: https://nutui.jd.com/taro/react/1x/#/zh-CN/guide/intro-react
+        - name: 小程序注册
+          url: https://shop.ay6.top/#/
     - name: Php
       sites:
         - name: ThinkPhp
@@ -246,20 +248,18 @@ content:
           url: https://www.qiniu.com/
     - name: 电影
       sites:
+        - name: 影视森林
+          url: http://549.tv/
+        - name: 555电影
+          url: https://www.5ying.fun/
+        - name: 电影狗
+          url: https://www.dianyinggou.com/
         - name: VideoFk解析视频
           url: https://www.videofk.com/
         - name: 豌豆PRO
           url: https://wandou.pro/
-        - name: 555电影
-          url: https://www.5ying.fun/
         - name: NO视频
           url: https://www.novipnoad.com/
-        - name: 影视森林
-          url: http://549.tv/
-        - name: 橘子盘搜
-          url: https://www.nmme.cc/
-        - name: 电影狗
-          url: https://www.dianyinggou.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
@@ -363,53 +363,6 @@ content:
         - name: 慕课网
           description: 程序员的梦工厂（有UI课程）
           url: https://www.imooc.com/
-    - name: UED团队
-      sites:
-        - name: Airbnb Design
-          description: Airbnb Design
-          url: https://airbnb.design
-        - name: Facebook Design
-          description: Facebook Design
-          url: http://facebook.design/
-        - name: Google Design
-          description: Google Design
-          url: https://design.google/
-        - name: eico design
-          description: 数字化咨询与产品专家
-          url: http://eicodesign.com/
-        - name: nice design
-          description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-          url: http://www.niceui.cn/
-        - name: 腾讯CDC
-          description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-          url: http://cdc.tencent.com/
-        - name: TGideas
-          description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-          url: http://tgideas.qq.com/
-        - name: ISUX
-          description: 腾讯社交用户体验设计部
-          url: https://isux.tencent.com/
-        - name: MXD
-          description: 腾讯MIG无线互联网事业群设计团队
-          url: http://mxd.tencent.com/
-        - name: Aliued
-          description: 阿里巴巴国际UED团队
-          url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
-        - name: 网易uedc
-          description: 网易用户体验设计中心（User Experience Design Center）
-          url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
     - name: 一些网站
       sites:
         - name: 全历史
@@ -436,3 +389,5 @@ content:
         - name: 查无此人
           description: 刷新网站，展现一张AI 生成的人脸照片
           url: https://thispersondoesnotexist.com/
+        - name: F搜
+          url: https://fsoufsou.com/
